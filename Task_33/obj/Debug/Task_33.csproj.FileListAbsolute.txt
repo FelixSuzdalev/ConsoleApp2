@@ -5,3 +5,10 @@ D:\Проекты VS\ConsoleApp2\Task_33\obj\Debug\Task_33.csproj.AssemblyRefere
 D:\Проекты VS\ConsoleApp2\Task_33\obj\Debug\Task_33.csproj.CoreCompileInputs.cache
 D:\Проекты VS\ConsoleApp2\Task_33\obj\Debug\Task_33.exe
 D:\Проекты VS\ConsoleApp2\Task_33\obj\Debug\Task_33.pdb
+D:\Проекты VS\MDK_0101_Practice_3\Task_33\bin\Debug\Task_33.exe.config
+D:\Проекты VS\MDK_0101_Practice_3\Task_33\bin\Debug\Task_33.exe
+D:\Проекты VS\MDK_0101_Practice_3\Task_33\bin\Debug\Task_33.pdb
+D:\Проекты VS\MDK_0101_Practice_3\Task_33\obj\Debug\Task_33.csproj.AssemblyReference.cache
+D:\Проекты VS\MDK_0101_Practice_3\Task_33\obj\Debug\Task_33.csproj.CoreCompileInputs.cache
+D:\Проекты VS\MDK_0101_Practice_3\Task_33\obj\Debug\Task_33.exe
+D:\Проекты VS\MDK_0101_Practice_3\Task_33\obj\Debug\Task_33.pdb
